@@ -20,7 +20,7 @@ This repository demonstrates a **Spark Lakehouse** built on the **Medallion Arch
 
 - **Data Storage**: Cloud object storage.
 - **Compute & ETL**: Spark clusters running batch and pipelines using PySpark DataFrame API.
-- **Serving**: SQL warehousing for BI, ML/feature stores, and APIs/exports for downstream systems.
+- **Serving**: Spark warehousing for BI, ML/feature stores, and APIs/exports for downstream systems.
 
 ---
 
